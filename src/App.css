@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+h1{
+
+  font-family: Spicy Rice;
+  font-size: 52px;
+  color: red;
+}
